@@ -6,7 +6,7 @@ The development environment in the moment is Xcode 7.3.1 under OS X 10.11 El Cap
 
 The file manifest.MBDB contains the information over other files which were located in the same directory. These files represent the contents of an iPhone resp. iPad device at any one time. Each backup has its one directory and the files in it are updated every time when the device is connected to the computer and is synchronized.
 
-The  above information is only valid for versions of OSX until 10.11 aka El Capitan. The new macOS Sierra is using a similar but yet different conception ( with different subdirectories and a SQL database Manifest.db ). So the program is not usable any more with OSX versions higher than 10.11 ...
+The  above information is only valid for versions of OSX until 10.11 aka El Capitan and using an iTunes version less than 12.5 ( not shure when IT happened ). The new macOS Sierra is utilising a similar but yet different conception ( with subdirectories and a SQL database Manifest.db ). So the program is not usable any more with OSX versions higher than 10.11 ...
 
 With the help of manifest.MBDB you can extract files which could not be recovered otherwise.
 
